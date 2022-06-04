@@ -1,0 +1,19 @@
+{
+  "name": "the-sparks-foundation-internship",
+  "version": "1.0.0",
+  "description": "Sparks Foundation Internship Project : Basic Banking System\r A Web Application used to transfer money between multiple users (Project contains 10 dummy users). A dummy user can also be created.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/16pravinkumar/The-Sparks-Foundation-Internship.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/16pravinkumar/The-Sparks-Foundation-Internship/issues"
+  },
+  "homepage": "https://github.com/16pravinkumar/The-Sparks-Foundation-Internship#readme"
+}
